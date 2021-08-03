@@ -1,4 +1,4 @@
-//Q.1: Write a program to calculate simple interest (make sure to take principle amount, interest rate and time period from console)
+//*Q.1: Write a program to calculate simple interest (make sure to take principle amount, interest rate and time period from console)*/
 
 
 
